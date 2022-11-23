@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Aditya Arora
+Main-Class: com.adioracreations.lightningalgorithm.Main
+
